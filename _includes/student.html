@@ -1,0 +1,52 @@
+<!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  {% if project.redirect -%}
+  <a href="{{ project.redirect }}">
+    {%- else -%}
+    <a href="{{ student.website }}">
+      {%- endif %}
+      <div class="card hoverable">
+        {%- if student.img %}
+        {%- include figure.html
+          path=student.img
+          alt="project thumbnail" 
+          class="student-pic" -%}
+        {%- endif %}
+        <div class="card-body">
+          <h2 class="card-title ">{{ student.title }}</h2>
+          <p class="card-text">{{ student.description }}</p>
+          <div class="row ml-1 mr-1 p-0">
+            {%- if student.gscholar -%}
+            <div class="scholar-icon">
+                <div class="icon" data-toggle="tooltip" title="Google Scholar">
+                  <a href="{{ student.gscholar }}"><i class="ai ai-google-scholar"></i></a>
+                </div>
+            </div>
+            {%- endif %}
+            {%- if student.linkedin -%}
+            <div class="github-icon">
+                <div class="icon" data-toggle="tooltip" title="Linkedin Icon">
+                  <a href="{{ student.linkedin }}"><i class="fa-brands fa-linkedin-in"></i></a>
+                </div>
+            </div>
+            {%- endif %}
+            {%- if student.email -%}
+            <div class="github-icon">
+                <div class="icon" data-toggle="tooltip" title="Linkedin Icon">
+                  <a href="mailto:{{ student.email | encode_email }}"><i class="fa-solid fa-envelope"></i></a>
+                </div>
+            </div>
+            {%- endif %}
+            {%- if student.github -%}
+            <div class="github-icon">
+              <div class="icon" data-toggle="tooltip" title="Code Repository">
+                <a href="{{ student.github }}"><i class="fab fa-github gh-icon"></i></a>
+              </div>
+            </div>
+            {%- endif %}
+          </div>
+        </div>
+      </div>
+    </a>
+</div>
