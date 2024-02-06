@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm happy to announce that our paper [SmoothHess](https://nips.cc/virtual/2023/poster/70998) was accepted into NeurIPS (2023)
+I'm happy to announce that our paper [SmoothHess](https://nips.cc/virtual/2023/poster/70998) was accepted into NeurIPS (2023).
