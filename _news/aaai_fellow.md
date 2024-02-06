@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am delighted to have been elected a Fellow of the Association for the Advancement of Artificial Intelligence
+I am honored to have been elected a Fellow of the Association for the Advancement of Artificial Intelligence (AAAI).
