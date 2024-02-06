@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am glad to have recieved the COE Distinguished Faculty Award at Northeastern University
+I am glad to have recieved the COE Distinguished Faculty Award at Northeastern University.
