@@ -9,6 +9,6 @@ importance: 1
 category: work
 current: false 
 position: Graduate
-current_pos: Eze Software Group
+current_pos: Eze Software
 Thesis: Improving Large Margin Classifiers using Relationships among Samples
 ---

@@ -9,6 +9,6 @@ importance: 1
 category: work
 current: false 
 position: Graduate
-current_pos:  Post-Doc at Harvard Medical School, now working at Parallel Machines
+current_pos:  Parallel Machines
 Thesis: Bayesian Nonparametrics and Marked Poisson Processes 
 ---

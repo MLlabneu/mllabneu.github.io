@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Zulqarnain Qayyum Khan
+title: Zulqarnain Khan
 order: 2022-06
 grad_date: 'July 2022'
 lastname: Khan
@@ -9,6 +9,6 @@ importance: 1
 category: work
 current: false 
 position: Graduate
-current_pos: Research Scientist at Institute for Experiential AI
+current_pos: Experiential AI
 Thesis: Interpretable Machine Learning for Affective Psychophysiology and Neuroscience
 ---

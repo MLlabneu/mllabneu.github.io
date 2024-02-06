@@ -9,6 +9,6 @@ importance: 1
 category: work
 current: false 
 position: Graduate
-current_pos: Geophysical Survey Systems, Inc. (GSSI)
+current_pos: GSSI
 Thesis: Automated Target Detection for Geophysical Applications 
 ---

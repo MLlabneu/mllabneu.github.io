@@ -3,9 +3,9 @@ layout: page
 title: Projects
 permalink: /projects/
 description: A growing collection of your cool projects.
-nav: true
+nav: false
 nav_order: 2
-display_categories: [on-going, finished]
+display_categories: [on-goingsdfasdf, finished]
 horizontal: false
 ---
 

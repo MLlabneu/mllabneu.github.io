@@ -9,6 +9,6 @@ importance: 1
 category: work
 current: false 
 position: Graduate
-current_pos: Postdoc at University of Pittsburgh
+current_pos: UPitt Postdoc
 Thesis: Interpretable Clustering Methods 
 ---

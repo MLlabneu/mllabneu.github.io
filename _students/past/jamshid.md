@@ -9,6 +9,6 @@ importance: 1
 category: work
 current: false 
 position: Graduate
-current_pos: Post-Doc at Northeastern
+current_pos: Northeastern Post-Doc 
 Thesis: Information Theoretic Active Learning in Unsupervised and Supervised Problems 
 ---

@@ -9,6 +9,6 @@ importance: 1
 category: work
 current: false 
 position: Graduate
-current_pos: Associate Professor at Northeastern University
+current_pos: Northeastern Univ.
 Thesis: Learning Representations via Kernel Dependence Measure
 ---

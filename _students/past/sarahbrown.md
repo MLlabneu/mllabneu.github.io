@@ -9,6 +9,6 @@ importance: 1
 category: work
 current: false 
 position: Graduate
-current_pos:  Chancellor’s Postdoctoral Fellow at the UC Berkeley
+current_pos:  UCB Post-doc
 Thesis: Machine Learning for Computational Psychology 
 ---

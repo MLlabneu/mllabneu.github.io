@@ -16,15 +16,23 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-2">
     {%- for student in sorted_students -%}
-      {% include students_horizontal.html %}
+      {%- if student.current -%}
+        {% include students_horizontal.html %}
+      {%- endif -%}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
     {%- for student in sorted_students -%}
-      {% include student.html %}
+      {%- if student.current -%}
+        {% include student.html %}
+      {%- endif -%}
     {%- endfor %}
   </div>
   {%- endif -%}
+  <h2>PAST STUDENTS</h2>
+  <br>
+  {%- include past_students.html %}
+  <br>
 </div>
