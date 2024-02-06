@@ -1,12 +1,12 @@
 <div class="current-students">
     {%- assign sorted_students = site.students | sort: "lastname" -%}
-    <div class="container">
-      <div class="row row-cols-5">
+    <div class="flex-container">
+     
       {%- for student in sorted_students -%}
         {%- if student.current == true %}
-        <div class="col"><img class="student-pic rounded" src="{{ student.img | relative_url }}"/><br><h4 class="center-text"><a href="{{ student.website}}">{{ student.title }}</a></h4></div>
+        <div class="flex-item"><img class="student-pic rounded" src="{{ student.img | relative_url }}"/><br><h4 class="center-text"><a href="{{ student.website}}">{{ student.title }}</a></h4></div>
         {%- endif %}
       {%- endfor %}
-      </div>
+      
     </div>
 </div>

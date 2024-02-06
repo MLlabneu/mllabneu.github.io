@@ -331,6 +331,20 @@ blockquote {
   text-align: center;
 }
 
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  .flex-item {
+    padding-right: 3mm;
+    padding-left: 3mm;
+    flex-basis: 0;
+    flex-grow: 1;
+    max-width: 64mm;
+    min-width: 64mm;
+  }
+}
+
 .current-students {
   .container{
     max-width: 100%;
