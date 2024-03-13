@@ -9,6 +9,7 @@ importance: 1
 category: work
 current: false 
 position: Graduate
-current_pos: Northeastern Post-Doc 
+current_pos: DePaul Univ.
+website: https://jsourati.github.io/
 Thesis: Information Theoretic Active Learning in Unsupervised and Supervised Problems 
 ---

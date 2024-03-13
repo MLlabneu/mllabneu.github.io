@@ -10,5 +10,6 @@ category: work
 current: false 
 position: Graduate
 current_pos: Amazon
+website: https://www.linkedin.com/in/liuyumin/
 Thesis: Learning from Spatio-Temporal Data with Applications in Climate Science
 ---

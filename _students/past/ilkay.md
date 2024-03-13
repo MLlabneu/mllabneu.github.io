@@ -10,5 +10,6 @@ category: work
 current: false 
 position: Graduate
 current_pos: BioSensics
+website: https://www.linkedin.com/in/ilkay-y%C4%B1ld%C4%B1z/
 Thesis: Spectral Ranking Regression 
 ---

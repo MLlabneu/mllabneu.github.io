@@ -10,5 +10,6 @@ category: work
 current: false 
 position: Graduate
 current_pos: Paige AI
+website: https://alicanb.github.io/
 Thesis: Deep Representation Learning for Complex Medical Images 
 ---
