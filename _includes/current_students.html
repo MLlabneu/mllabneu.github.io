@@ -4,7 +4,7 @@
      
       {%- for student in sorted_students -%}
         {%- if student.current == true %}
-        <div class="flex-item"><img class="student-pic rounded" src="{{ student.img | relative_url }}"/><br><h4 class="center-text"><a href="{{ student.website}}">{{ student.title }}</a></h4></div>
+        <div class="flex-item"><img class="student-pic rounded" src="{{ student.img | relative_url }}"/><br><h4 class="center-text">{%- if student.website -%}<a href="{{ student.website}}">{{ student.title }}</a>{%- else -%}{{ student.title }}{%- endif -%}</h4></div>
         {%- endif %}
       {%- endfor %}
       
