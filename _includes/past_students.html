@@ -4,7 +4,7 @@
       <div class="flex-container">
       {%- for student in sorted_students -%}
         {%- if student.current != true %}
-        <div class="flex-item"><h5 class="center-text"><a href="{{ student.website}}">{{ student.title }}</a></h5><h6 class="center-text">{{student.current_pos}}</h6></div>
+        <div class="flex-item"><h5 class="center-text">{%- if student.website -%}<a href="{{ student.website}}">{{ student.title }}</a>{%- else -%}{{ student.title }}{%- endif -%}</h5><h6 class="center-text">{{student.current_pos}}</h6></div>
         {%- endif %}
       {%- endfor %}
       </div>
