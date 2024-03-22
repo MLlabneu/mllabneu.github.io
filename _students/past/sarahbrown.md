@@ -9,6 +9,7 @@ importance: 1
 category: work
 current: false 
 position: Graduate
-current_pos:  UCB Post-doc
+current_pos:  Univ. Rhode Island
+website: https://sarahmbrown.org/
 Thesis: Machine Learning for Computational Psychology 
 ---

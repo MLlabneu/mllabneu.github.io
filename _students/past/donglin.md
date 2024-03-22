@@ -9,6 +9,7 @@ importance: 1
 category: work
 current: false 
 position: Graduate
-current_pos: Yahoo!
+current_pos: ByteDance
+webstie: https://www.linkedin.com/in/donglinniu/
 Thesis: Multiple Alternative Clusterings and Dimensionality Reduction
 ---

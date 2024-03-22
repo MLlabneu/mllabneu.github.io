@@ -9,6 +9,6 @@ importance: 1
 category: work
 current: false 
 position: Graduate
-current_pos: Spaulding Hospital
+current_pos: ŌURA
 Thesis: Quantitative Motor Assessment in Patients with Mobility Limiting Conditions using Wearable Sensors 
 ---

@@ -10,5 +10,6 @@ category: work
 current: false 
 position: Graduate
 current_pos: Harvard Medical School
+website: https://projects.iq.harvard.edu/lmi/people/james-ross
 Thesis: Probability Models and Bayesian Nonparametrics for Subtyping Chronic Obstructive Pulmonary Disease 
 ---
