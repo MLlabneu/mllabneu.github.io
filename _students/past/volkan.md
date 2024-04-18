@@ -9,6 +9,7 @@ importance: 1
 category: work
 current: false 
 position: Graduate
-current_pos: Eze Software
+current_pos: UCSD
+website: https://www.volkanvural.com/
 Thesis: Improving Large Margin Classifiers using Relationships among Samples
 ---

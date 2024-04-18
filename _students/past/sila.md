@@ -10,5 +10,6 @@ category: work
 current: false 
 position: Graduate
 current_pos: Boston Children’s Hospital
+website: https://www.childrenshospital.org/research/researchers/sila-kurugol
 Thesis: Machine Learning and Model Based 3D Segmentation Algorithms for Challenging Medical Imaging Problems 
 ---

@@ -9,6 +9,7 @@ importance: 1
 category: work
 current: false 
 position: Graduate
-current_pos: GSSI
+current_pos: MIT Lincoln Labratory
+website: https://www.linkedin.com/in/uri-peer-4a776316/
 Thesis: Automated Target Detection for Geophysical Applications 
 ---

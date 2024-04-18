@@ -9,6 +9,7 @@ importance: 1
 category: work
 current: false 
 position: Graduate
-current_pos:  Parallel Machines
+current_pos:  AIClub
+website: https://www.linkedin.com/in/sindhu-ghanta-b6359021/
 Thesis: Bayesian Nonparametrics and Marked Poisson Processes 
 ---

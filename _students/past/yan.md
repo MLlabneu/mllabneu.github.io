@@ -9,6 +9,7 @@ importance: 1
 category: work
 current: false 
 position: Graduate
-current_pos: Yahoo! Labs
+current_pos: TikTok
+website: https://www.linkedin.com/in/chrisyany/
 Thesis: Learning from Imperfect and Related Labels 
 ---
