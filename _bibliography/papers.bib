@@ -11,7 +11,28 @@
   publisher =    {PMLR},
   pdf = 	 {https://proceedings.mlr.press/v238/hill24a/hill24a.pdf},
   url = 	 {https://proceedings.mlr.press/v238/hill24a.html},
-  abstract = 	 { Post-hoc explanation methods have become a critical tool for understanding black-box classifiers in high-stakes applications. However, high-performing classifiers are often highly nonlinear and can exhibit complex behavior around the decision boundary, leading to brittle or misleading local explanations. Therefore there is an impending need to quantify the uncertainty of such explanation methods in order to understand when explanations are trustworthy. In this work we propose the Gaussian Process Explanation unCertainty (GPEC) framework, which generates a unified uncertainty estimate combining decision boundary-aware uncertainty with explanation function approximation uncertainty. We introduce a novel geodesic-based kernel, which captures the complexity of the target black-box decision boundary. We show theoretically that the proposed kernel similarity increases with decision boundary complexity. The proposed framework is highly flexible; it can be used with any black-box classifier and feature attribution method. Empirical results on multiple tabular and image datasets show that the GPEC uncertainty estimate improves understanding of explanations as compared to existing methods. }
+  abstract = 	 { Post-hoc explanation methods have become a critical tool for understanding black-box classifiers in high-stakes applications. However, high-performing classifiers are often highly nonlinear and can exhibit complex behavior around the decision boundary, leading to brittle or misleading local explanations. Therefore there is an impending need to quantify the uncertainty of such explanation methods in order to understand when explanations are trustworthy. In this work we propose the Gaussian Process Explanation unCertainty (GPEC) framework, which generates a unified uncertainty estimate combining decision boundary-aware uncertainty with explanation function approximation uncertainty. We introduce a novel geodesic-based kernel, which captures the complexity of the target black-box decision boundary. We show theoretically that the proposed kernel similarity increases with decision boundary complexity. The proposed framework is highly flexible; it can be used with any black-box classifier and feature attribution method. Empirical results on multiple tabular and image datasets show that the GPEC uncertainty estimate improves understanding of explanations as compared to existing methods. },
+  selected = {true},
+  preview = {boundaryaware.png}
+}
+
+
+@InProceedings{pmlr-v238-q-khan24a,
+  title = 	 { Analyzing Explainer Robustness via Probabilistic {L}ipschitzness of Prediction Functions },
+  author =       {Q Khan, Zulqarnain and Hill, Davin and Masoomi, Aria and T Bone, Joshua and Dy, Jennifer},
+  booktitle = 	 {Proceedings of The 27th International Conference on Artificial Intelligence and Statistics},
+  pages = 	 {1378--1386},
+  year = 	 {2024},
+  editor = 	 {Dasgupta, Sanjoy and Mandt, Stephan and Li, Yingzhen},
+  volume = 	 {238},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {02--04 May},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v238/q-khan24a/q-khan24a.pdf},
+  url = 	 {https://proceedings.mlr.press/v238/q-khan24a.html},
+  abstract = 	 { Machine learning methods have significantly improved in their predictive capabilities, but at the same time they are becoming more complex and less transparent. As a result, explainers are often relied on to provide interpretability to these black-box prediction models. As crucial diagnostics tools, it is important that these explainers themselves are robust. In this paper we focus on one particular aspect of robustness, namely that an explainer should give similar explanations for similar data inputs. We formalize this notion by introducing and defining explainer astuteness, analogous to astuteness of prediction functions. Our formalism allows us to connect explainer robustness to the predictor’s probabilistic Lipschitzness, which captures the probability of local smoothness of a function. We provide lower bound guarantees on the astuteness of a variety of explainers (e.g., SHAP, RISE, CXPlain) given the Lipschitzness of the prediction function. These theoretical results imply that locally smooth prediction functions lend themselves to locally robust explanations. We evaluate these results empirically on simulated as well as real datasets. },
+  selected = {true},
+  preview = {analyzingrobust.png}
 }
 
 
