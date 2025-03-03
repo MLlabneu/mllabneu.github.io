@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm happy to announce that our paper [ADAPT](https://openreview.net/forum?id=bZzXgheUSD) was accepted into TMLR.
+I'm happy to announce that our paper [ADAPT to Robustify Prompt Tuning Vision Transformers](https://openreview.net/forum?id=bZzXgheUSD) was accepted into TMLR.
