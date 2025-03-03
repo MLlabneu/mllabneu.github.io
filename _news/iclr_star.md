@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm excited to share that our paper [STAR](https://openreview.net/forum?id=6N5OM5Duuj) was accepted into ICLR 2025.
+I'm excited to share that our paper [STAR: Stability-Inducing Weight Perturbation for Continual Learning](https://openreview.net/forum?id=6N5OM5Duuj) was accepted into ICLR 2025.
