@@ -3,7 +3,7 @@ layout: page
 title: Davin Hill
 lastname: Hill
 description: PhD Student
-img: assets/img/davin.jpeg
+img: assets/img/davin.jpg
 importance: 1
 category: work
 current: true 
