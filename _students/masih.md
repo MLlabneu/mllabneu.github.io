@@ -9,6 +9,7 @@ category: work
 github: https://github.com/Gnomy17
 gscholar:  https://scholar.google.com/citations?user=CejTb_4AAAAJ&hl=en
 linkedin:  https://www.linkedin.com/in/meskandars/
+website: https://meskandars.github.io/
 current: true
 email: eskandar.m@northeastern.edu
 position: PhD
