@@ -1,5 +1,6 @@
 ---
 layout: post
+title: I'm happy to share that our group has 3 papers accepted at NeurIPS 2025!
 date: 2025-09-19 07:59:00-0400
 inline: false
 related_posts: false
