@@ -6,7 +6,7 @@ description: PhD Student
 img: assets/img/ti2.png
 importance: 1
 category: work
-github: https://github.com/Elifnursunger
+github: https://github.com/toobaimt
 gscholar:  https://scholar.google.com/citations?user=qR1LfG8AAAAJ&hl=en
 website: https://toobaimt.github.io/
 linkedin:  https://www.linkedin.com/in/tooba-imtiaz/
