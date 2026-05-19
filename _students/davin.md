@@ -6,7 +6,7 @@ description: PhD Student
 img: assets/img/davin.jpg
 importance: 1
 category: work
-current: true 
+current: false 
 position: PhD
 github: https://github.com/davinhill
 gscholar: https://scholar.google.com/citations?user=lFRNvCMAAAAJ&hl=en
