@@ -3,6 +3,7 @@ layout: page
 title: Elifnur Sunger
 lastname: Sunger
 description: PhD Student
+grad_date: 'Aug 2026'
 img: assets/img/ElifnurSunger.png
 importance: 1
 category: work

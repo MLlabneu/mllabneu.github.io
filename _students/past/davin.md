@@ -4,6 +4,7 @@ title: Davin Hill
 lastname: Hill
 description: PhD Student
 img: assets/img/davin.jpg
+grad_date: 'Aug 2025'
 importance: 1
 category: work
 current: false 
