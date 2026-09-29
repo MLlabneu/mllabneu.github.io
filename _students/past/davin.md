@@ -8,6 +8,7 @@ importance: 1
 category: work
 current: false 
 position: PhD
+current_pos: Optum AI
 github: https://github.com/davinhill
 gscholar: https://scholar.google.com/citations?user=lFRNvCMAAAAJ&hl=en
 website: https://www.davinhill.me/

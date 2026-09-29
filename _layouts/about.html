@@ -55,28 +55,28 @@ layout: default
 
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
-            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">NEWS</a></h2>
+            <h2 class="about-section-heading"><a href="{{ '/news/' | relative_url }}" style="color: inherit;">NEWS</a></h2>
             {%- include news.html limit=true %}
           {%- endif %}
 
           <!-- Latest posts -->
           {% if page.latest_posts -%}
-            <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">latest posts</a></h2>
+            <h2 class="about-section-heading"><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">latest posts</a></h2>
             {%- include latest_posts.html %}
           {%- endif %}
           
 
           <!-- Selected papers -->
           {% if page.selected_papers -%}
-            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">SELECTED PUBLICATIONS</a></h2>
+            <h2 class="about-section-heading"><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">SELECTED PUBLICATIONS</a></h2>
             {%- include selected_papers.html %}
           {%- endif %}
           
           {% if page.students -%}
-            <h2><a href="{{ '/students/' | relative_url }}" style="color: inherit;">CURRENT STUDENTS</a></h2>
+            <h2 class="about-section-heading"><a href="{{ '/students/' | relative_url }}" style="color: inherit;">CURRENT STUDENTS</a></h2>
             <br>
             {%- include current_students.html %}
-            <h2>PAST STUDENTS</h2>
+            <h2 class="about-section-heading">PAST STUDENTS</h2>
             <br>
             {%- include past_students.html %}
           {%- endif %}

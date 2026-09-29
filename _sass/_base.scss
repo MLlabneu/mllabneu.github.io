@@ -331,6 +331,10 @@ blockquote {
   text-align: center;
 }
 
+.about-section-heading {
+  margin-top: 2rem;
+}
+
 .flex-container {
   display: flex;
   flex-wrap: wrap;
@@ -346,6 +350,9 @@ blockquote {
 }
 
 .current-students {
+  .flex-container {
+    row-gap: 1.5rem;
+  }
   .container{
     max-width: 100%;
     margin-left: auto;
