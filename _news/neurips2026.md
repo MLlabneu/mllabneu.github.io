@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I'm happy to share that our group has 3 papers accepted at NeurIPS 2026!
-date: 2025-09-24 07:59:00-0400
+date: 2026-09-24 07:59:00-0400
 inline: false
 related_posts: false
 ---
