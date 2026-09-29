@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work [LVT: Large-Scale Scene Reconstruction via Local View Transformers](https://toobaimt.github.io/lvt/), _Tooba Imtiaz*, Lucy Chai*, Kathryn Heal, Jungyeon Park, Xuan Luo, Jennifer Dy, John Flynn_; was accepted to SIGGRAPH Asia (2025)!
+Our work [LVT: Large-Scale Scene Reconstruction via Local View Transformers](https://toobaimt.github.io/lvt/) was accepted to SIGGRAPH Asia (2025)!
