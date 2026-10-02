@@ -7,6 +7,7 @@ img: assets/img/prudence.jpg
 email: lam.p@northeastern.edu
 github: https://github.com/p-lam
 linkedin: https://linkedin.com/in/pmlam
+gscholar: https://scholar.google.com/citations?hl=en&user=lr6Ofm8AAAAJ
 importance: 1
 category: work
 current: true
